@@ -1,7 +1,6 @@
 {
   "name": "BusinessLunchFinder",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -17,5 +16,15 @@
     "express": "^4.16.2",
     "fb": "^2.0.0",
     "moment": "^2.20.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanCenusa/BusinessLunchFinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StefanCenusa/BusinessLunchFinder/issues"
+  },
+  "homepage": "https://github.com/StefanCenusa/BusinessLunchFinder#readme",
+  "description": ""
 }

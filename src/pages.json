@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bistromoo",
+    "name": "Moo Bistro",
+    "keywords": [
+      "Business Lunch"
+    ]
+  },
+  {
+    "id": "TribecaPalas",
+    "name": "Tribeca",
+    "keywords": [
+      "Let's lunch",
+      "pauza de la prânz"
+    ]
+  },
+  {
+    "id": "CzechInPalas",
+    "name": "CzechIn",
+    "keywords": [
+      "De luni și până vineri",
+      "meniu delicios"
+    ]
+  },
+  {
+    "id": "lacupolaiasi",
+    "name": "La Cupola",
+    "keywords": [
+      "Va asteptam la masa!"
+    ]
+  }
+]

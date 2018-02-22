@@ -1,0 +1,7 @@
+{
+  "name": "business-lunch-finder",
+  "description": "",
+  "repository": "https://github.com/StefanCenusa/BusinessLunchFinder.git",
+  "keywords": ["finder", "lunch", "business"],
+  "image": "heroku/nodejs"
+}

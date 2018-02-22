@@ -8,7 +8,7 @@ const finder = require('./src/finder')
 
 async function start() {
     await finder.init();
-    await server.start(3000);
+    await server.start(process.env.PORT);
 }
 
 start().catch(err => {

@@ -17,6 +17,9 @@
     "fb": "^2.0.0",
     "moment": "^2.20.1"
   },
+  "engines": {
+    "node": "8.9.4"
+  },
   "devDependencies": {},
   "repository": {
     "type": "git",

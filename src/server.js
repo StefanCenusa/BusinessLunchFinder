@@ -23,11 +23,6 @@ app.get('/businessLunch', async (req, res) => {
     debug(businessMenus);
 
     res.json(businessMenus);
-    // const slackText = businessMenus.reduce((acc, menu) => {
-    //     const text = `• *${menu.name}*\n${menu.link}\n${menu.message}\n\n`;
-    //
-    //     return acc + text;
-    // }, '');
 });
 
 
